@@ -44,7 +44,7 @@ Minimal: A stripped-down version of Kali Linux. Includes only the essential tool
 Nano: Designed for extremely lightweight installations with minimal storage and resource usage. Comes with only the core system 
 components and very few pre-installed tools.
 
-Kali Nethunter Full
+## Kali Nethunter Full
 
 Download Script: wget https://etechbox.com/nethunter/install-nethunter-full
 
@@ -60,8 +60,8 @@ chmod +x install-nethunter-full
 
 
 
-Kali Nethunter Minimal
+## Kali Nethunter Minimal
 Download Script: wget https://etechbox.com/nethunter/install-nethunter-min
 
-Kali Nethunter Nano
+## Kali Nethunter Nano
 Download Script: wget https://etechbox.com/nethunter/install-nethunter-nano
